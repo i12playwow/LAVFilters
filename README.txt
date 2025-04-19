@@ -1,4 +1,4 @@
-LAV Filters - ffmpeg based DirectShow Splitter and Decoders
+xLAV Filters - ffmpeg based DirectShow Splitter and Decoders
 
 LAV Filters are a set of DirectShow filters based on the libavformat and libavcodec libraries
 from the ffmpeg project, which will allow you to play virtually any format in a DirectShow player.
